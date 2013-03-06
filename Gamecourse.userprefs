@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\SphereCollision.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Cannon.cs" Line="147" Column="44" />
+      <File FileName="Assets\Scripts\GUIMenu.cs" Line="62" Column="35" />
+      <File FileName="Assets\Scripts\FloorExplosion.js" Line="18" Column="1" />
+      <File FileName="Assets\Scripts\Effects\CollisionSoundEffect.js" Line="8" Column="26" />
+      <File FileName="Assets\Scripts\SphereCollision.cs" Line="34" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
